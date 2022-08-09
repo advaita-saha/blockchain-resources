@@ -1,4 +1,4 @@
-Ethereum Reading List</p>
+# Ethereum Reading List</p>
 
 <a href="http://twitter.com/home?status=Check%20out%20this%20awesome%20Ethereum%20Reading%20List:%20www.scanate.co/eth">Tweet about this list!</a>
 
