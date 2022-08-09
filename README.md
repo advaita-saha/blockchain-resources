@@ -1,7 +1,4 @@
-# EthList: The Crowdsourced Ethereum Reading List</p>
-### Found a great resource? Add it by submitting a Pull Request!
-
-Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge Izquierdo and Luis Cuende (Aragon), Jake Brukhman (CoinFund), Maksim Balashevich (Santiment), Michal Brazewicz (Status), Nate Rush, Krishna Aradhi, Justin Poirier, Griff Green (Giveth.io), Eeks, Anonymous
+Ethereum Reading List</p>
 
 <a href="http://twitter.com/home?status=Check%20out%20this%20awesome%20Ethereum%20Reading%20List:%20www.scanate.co/eth">Tweet about this list!</a>
 
@@ -123,8 +120,7 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 
 ## Getting Started
 
-- [Ethereum - Getting Started - Australian Edition
-](http://ashleyknowles.net/2017/05/ethereum-getting-started-aussie-edition/
+- [Ethereum - Getting Started - Australian Edition](http://ashleyknowles.net/2017/05/ethereum-getting-started-aussie-edition/
 )
 - [ ] [Words are Hard: Defining Common Terms in the Ethereum / Crypto Space](https://www.reddit.com/r/ethereum/comments/6kvp87/words_are_hard_defining_common_terms_in_the/)
 - [ ] [Getting up to speed on Ethereum](https://medium.com/@mattcondon/getting-up-to-speed-on-ethereum-63ed28821bbe)
